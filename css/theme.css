@@ -24,8 +24,13 @@ body {
     color: #428bca;
 }
 
+.sidebar ul {
+    margin-top: -0.5em;
+}
+
 .sidebar li {
     margin-top: .7em;
+    margin-left: -1em;
     line-height: 1em;
 }
 
@@ -38,8 +43,27 @@ body {
 }
 
 .well h1 {
-    color: #ee4444;
-    font-size: 1.3em;
+    margin-top: -0.1em;
+    color: #7891b3;
+    font-size: 1.6em;
+}
+
+.well h2 {
+    margin-top: -0.1em;
+    color: #7891b3;
+    font-size: 1.4em;
+}
+
+.well h3 {
+    margin-top: -0.1em;
+    color: #7891b3;
+    font-size: 1.2em;
+}
+
+.well h4 {
+    margin-top: -0.1em;
+    color: #7891b3;
+    font-size: 1.0em;
 }
 
 .author {
